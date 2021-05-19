@@ -1,1 +1,1 @@
-<h1 style="text-align:center;">SOFTWARE INTERVIEW PREPARATION</h1>
+<h1 style="align-items:center">Software Interview Preparation</h1>
