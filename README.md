@@ -1,4 +1,4 @@
-<h1 style="justify-content:center;">Software Interview Preparation</h1>
+<h1 align='center'>Software Interview Preparation</h1>
 
 # STEPS
 
