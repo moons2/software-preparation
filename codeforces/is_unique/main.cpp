@@ -36,7 +36,7 @@ bool isUnique(string str)
     unordered_set<char> char_hash;
 
     for (char c: str){
-        // every letter must enter in this chunk
+        // every letter must enter in this chunk of code
         // only once
         if (char_hash.find(c) == char_hash.end()){
             char_hash.insert(c);
