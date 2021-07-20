@@ -68,3 +68,23 @@ We encourage you to ask for clarification
 it's important to hear how you've **improved** as a leader over time.
 
 Share with us the moments when you didn't get it right, what you learned and how you've grown.
+
+# Amz preferred skills
+
+## Coding
+
+> Comunication
+
+    always say what are you think, like you are thinking loud voice
+    know to explain what are you making
+    you reason behind
+
+> **An open problem!**
+
+    This will be intentionally, they whant you ask about cases like
+    "what you'd like to be returned when a list is empty?"
+
+    you earn more point if you arrive in an optimal solution, but if you didn't get
+    don't worry, only arrive in a solution
+
+    In the end you'll be asked the Big-O notation, be ready!
