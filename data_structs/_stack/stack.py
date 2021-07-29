@@ -27,6 +27,10 @@ the LifoQueue from deque, i.e
 
 from queue import LifoQueue, this is fully thread safe
 
+Stack are usefull in certain kind of recursive algorithms.
+Sometimes you need to push an item at a stack while you
+recurse but them removing them backtracking.
+
 bibliograpy:
 https://runestone.academy/runestone/books/published/pythonds/BasicDS/ImplementingaStackinPython.html
 https://realpython.com/how-to-implement-python-stack/
