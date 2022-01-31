@@ -14,4 +14,4 @@ asymptotic runtime.
 
 > Airplane Transfer: O(1), no matter the file's size, the time to transfer it will be constant.
 
- 
+ BigO(n)
