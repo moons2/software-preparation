@@ -4,7 +4,7 @@ Stack, a data struct that stores items in a last-In/First-Out (LIFO) manner.
 insertion (push): O(1)
 deletion (pop):   O(1)
 size:             O(1)
-isEmpty:           O(1)
+isEmpty:          O(1)
 
 in python, an easy manner to implement a stack is through the
 list lib or deque lib, list places each item in a consecutive
@@ -45,7 +45,7 @@ creation of a new class. The operations are implemented as methods
 from os import error
 from queue import LifoQueue
 
-
+'''
 class Stack:
     def __init__(self):
         self.stack = LifoQueue()
@@ -67,3 +67,9 @@ class Stack:
 
     def getNativeSize(self):
         return self.stack.qsize()
+'''
+
+
+class Stack:
+    def __init__(self) -> None:
+        self.stack()

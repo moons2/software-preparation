@@ -123,6 +123,33 @@ Class Wolf extends Dog
         System.out.println("Auuuuuu!");
     }
 }
+<<<<<<< HEAD
+
+Class Chiuaua extends Dog
+{
+    public static void bark()
+    {
+        System.out.println("Au Au Au");
+    }
+}
+
+Class DogPark
+{
+    public void everyoneBarks(Dog[] dogs)
+    {
+        Dog dog;
+
+        //all dogs bark
+        for (int i; i < dogs.size(); dogs++)
+        {
+            dog = dogs.elementAt(i);
+            dog.bark()
+        }
+    }
+}
+
+=======
+>>>>>>> fce927b8a437975244a9e2a523fbc7aaea04f8a7
 ```
 
 ### 2.4.2. Method Overloading (Sobrecarga de método)

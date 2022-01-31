@@ -1,0 +1,87 @@
+====================
+code site: https://leetcode.com/problemset/all/
+
+====================
+[Conteudo tecnico]
+	[Programação Orentada a Objetos]
+	[Estrutura de dados]
+	[Algoritmos de ordenação]
+	[Algoritmos de busca]
+	[Analise de performance]
+	[Design de Algoritmos]
+	[Diagramação UML]
+	[Banco de Dados]
+	[Arquitetura de Sistemas Distribuidos]
+	[Design Patterns]
+	[Praticar resolução de problemas de codificação](4/semana)
+[Entrevista]
+	[Tempo de entrevista](~40 min)
+	[Principios de liderança](https://www.amazon.jobs/pt/principles)
+	[Entrevista pessoal](https://www.amazon.jobs/pt/landing_pages/in-person-interview)
+	[Perguntas frequentes em entrevistas](https://www.amazon.jobs/pt/landing_pages/in-person-interview)
+	[Resume]
+	[Exemplos de situações que adequam aos Principios Amazon]
+	[Estruturar cada exemplo no metodo STAR]
+	[Ensaiar]
+[Inglês]
+
+====================
+
+3sem 	problemas e resolução de problemas
+4sem~	entrevistas e respostas padrões amazon
+
+====================
+40 ALGORITMOS TODO PROGRAMADOR DEVERIA CONHECER
+
+Capitulo 1
+	... Algorithm design techniques
+	... Performance analysis
+	... Validating an algorithm
+Capitulo 2
+	... Exploring data structures in Python
+	.. Exploring abstract data types
+Capitulo 3
+	. Introduction Sorting Algorithms
+	. Introduction to Search Algorithms
+Capitulo 4
+	. Introduction the basic concepts of designing an algorithm
+	. Understanding algorithmic strategy
+	. Pratical application - solving the TSP
+	. Presenting the PageRank algorithm
+	. Understanding linear programming
+Capitulo 5
+	. Representations of Graphs
+	. Introducing network analysis theory
+	. Understanding graph traversals
+	. ?Case study
+Capitulo 13
+	. Introduction to large-scale algorithm
+	. The design of parallel algorithms
+	. Strategizing multi-resource processing
+
+====================
+CRACKING THE CODE INTERVIEW 6TH EDITION
+
+1. PRE ENTREVISTA E ENTREVISTA - 10%
+
+2. CONTEUDO TECNICO - 30%
+
+3. EXERCICIOS - 60%
+
+====================
+
+1.	Entrevista pelo telefone em ingles, contendo perguntas tanto pessoais, como principios de liderança, array, strings e trees
+	O que é uma tabela hash?
+	Questões acerca do principio de liderança
+
+2.	Resolução de código.
+	Perguntas de *clarificação*
+	Questionar de maneira a restringir o domínio
+	Se atentar ao tipo de entrada
+	Problema I:	arvore, achar o ancestral comum dados dois nós quaisquer
+	Problema II: dado uma string, conte quantas letras de cada letra tem
+
+3.	Design de sistemas
+	Spotify Design Sistema
+
+

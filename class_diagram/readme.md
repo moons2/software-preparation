@@ -19,11 +19,19 @@ Passive classes store and define data types, also serve other classes.
 Methods and attributes visibilities are represented by signs
 
 | Marker | Visibility |                        Explanation                         |
+<<<<<<< HEAD
+| :----: | :--------: | :--------------------------------------------------------: |
+|   +    |   Public   |       available for classes ouside of the same class       |
+|   -    |  Private   | hided from any class/object which is not of the same class |
+|   #    | Protected  |            Only accessible by children classes             |
+|   #    |  Package   |                                                            |
+=======
 | ------ | :--------: | :--------------------------------------------------------: |
 | +      |   Public   |       available for classes ouside of the same class       |
 | -      |  Private   | hided from any class/object which is not of the same class |
 | #      | Protected  |            Only accessible by children classes             |
 | #      |  Package   |                                                            |
+>>>>>>> fce927b8a437975244a9e2a523fbc7aaea04f8a7
 
 ## Associations
 
