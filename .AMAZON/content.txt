@@ -39,20 +39,20 @@ Capitulo 1
 	... Validating an algorithm
 Capitulo 2
 	... Exploring data structures in Python
-	.. Exploring abstract data types
+	... Exploring abstract data types
 Capitulo 3
-	. Introduction Sorting Algorithms
-	. Introduction to Search Algorithms
+	... Introduction Sorting Algorithms
+	... Introduction to Search Algorithms
 Capitulo 4
-	. Introduction the basic concepts of designing an algorithm
+	.. Introduction the basic concepts of designing an algorithm
 	. Understanding algorithmic strategy
 	. Pratical application - solving the TSP
 	. Presenting the PageRank algorithm
 	. Understanding linear programming
 Capitulo 5
-	. Representations of Graphs
+	... Representations of Graphs
 	. Introducing network analysis theory
-	. Understanding graph traversals
+	... Understanding graph traversals
 	. ?Case study
 Capitulo 13
 	. Introduction to large-scale algorithm
